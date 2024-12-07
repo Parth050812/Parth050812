@@ -1,4 +1,4 @@
-## Hi there I am Parth Patil
+<h1>Hi there I am <b>Parth Patil</b></h1>
 
 <!--
 **Parth050812/Parth050812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
