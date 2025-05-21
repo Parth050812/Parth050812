@@ -12,7 +12,7 @@ I am a **Second-Year Computer Engineering Student** pursuing a **B.Tech** with a
 - **Styling & Animations:** Tailwind CSS, Anime.js
 
 ### **Backend Development**
-- **Languages & Frameworks:** Node.js, PHP, Express.js
+- **Languages & Frameworks:** Node.js, PHP, Express.js, FastAPI
 
 ### **Database Management**
 - PostgreSQL, Supabase, MongoDB, MySQL, SQLite
