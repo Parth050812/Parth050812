@@ -16,7 +16,8 @@ I am a **Second-Year Computer Engineering Student** pursuing a **B.Tech** with a
 
 ### **Database Management**
 - PostgreSQL, Supabase, MongoDB, MySQL, SQLite
-
+### **Languages**
+- C, C++, Rust, JAVA, JavaScript, Python
 ### **DevOps Tools**
 - Git, GitHub, Visual Studio Code, Sublime Text
 
